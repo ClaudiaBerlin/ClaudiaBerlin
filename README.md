@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ClaudiaBerlin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web and mobile app devpelopment
+- 🌱 I’m currently learning Javascript, React & Php
+- 💞️ I’m looking to collaborate on small and easy beginner projects
+- 📫 You reach me best via this Github account :)
 
 <!---
 ClaudiaBerlin/ClaudiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
