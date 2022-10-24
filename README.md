@@ -8,9 +8,9 @@
 ClaudiaBerlin/ClaudiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical)
-[![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)
+
 
 
 
