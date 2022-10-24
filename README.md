@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical)
 [![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)
+[![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square&show=unique)](http://hits.dwyl.com/claudiaberlin/readme)
 
