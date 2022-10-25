@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical)
 
 <a href="https://github.com/claudiaberlin/github-readme-stats">
-  <img align="left" height="120em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
+  <img align="left" height="80em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
 </a>
 
 ## Development Languages
