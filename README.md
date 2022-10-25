@@ -1,11 +1,8 @@
 # Hi, I'm Claudia Berlin 👋
 
-I'm a webdeveloper in training. Its exciting to see see ideas coming to life gradually and learning to be able to use technology for good: helping to share and improve daily life ##🌎 
+I'm a webdeveloper in training. Its exciting to see see ideas coming to life gradually and learning to be able to use technology for good: helping to share and improve daily life 
 
-#- Interested in web and mobile app devpelopment
-#- Currently learning Javascript, React & PHP. Beginner Knowledge in HTML & CSS
-#- Looking to collaborate on small and easy beginner projects
-#- You reach me best via this Github account :)
+Interested in web and mobile app devpelopment and currently learning Javascript, React & PHP. Beginner Knowledge in HTML & CSS. Looking to collaborate on small and easy beginner projects. You reach me best via this Github account :)
 
 <!---
 ClaudiaBerlin/ClaudiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
