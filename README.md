@@ -8,7 +8,7 @@ Interested in web and mobile app devpelopment and currently learning Javascript,
 ClaudiaBerlin/ClaudiaBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)
+[![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical)
 
 <a href="https://github.com/claudiaberlin/github-readme-stats">
