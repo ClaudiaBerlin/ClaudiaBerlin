@@ -9,7 +9,11 @@ ClaudiaBerlin/ClaudiaBerlin is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)<br>
+
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical)
+ </p> 
+  
 
 <a href="https://github.com/claudiaberlin/github-readme-stats">
   <img align="left" height="150em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
