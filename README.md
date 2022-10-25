@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudiaBerlin
 - 👀 I’m interested in web and mobile app devpelopment
-- 🌱 I’m currently learning Javascript, React & PhP. Beginner Knowledge in HTMl & Css
+- 🌱 I’m currently learning Javascript, React & PHP. Beginner Knowledge in HTML & CSS
 - 💞️ I’m looking to collaborate on small and easy beginner projects
 - 📫 You reach me best via this Github account :)
 
