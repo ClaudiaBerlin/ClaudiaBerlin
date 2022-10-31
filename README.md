@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/claudiaberlin/github-readme-stats">
 <img align="left" height="150em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
 </a>
-
+Stats by anuraghazra, Thank You!
 <br><br>
 
    
