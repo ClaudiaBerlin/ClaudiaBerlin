@@ -1,6 +1,6 @@
 # Hi, I'm Claudia Berlin 👋
 
-I'm a webdeveloper in training. Its exciting to see ideas coming to life gradually and learning to be able to use technology for good: helping to share and improve daily life 
+I'm in training. Its exciting to see ideas coming to life gradually and learning to be able to use technology for good: helping to share and improve daily life 
 
 Interested in web and mobile app devpelopment and currently learning Javascript, React & PHP. Beginner Knowledge in HTML & CSS. Looking to collaborate on small and easy beginner projects. You reach me best via this Github account :)
 
@@ -10,16 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![HitCount](https://hits.dwyl.com/claudiaberlin/readme.svg?style=flat-square)](http://hits.dwyl.com/claudiaberlin/readme)<br>
 
-<p align="center">
-<img align="left" height="150em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=claudiaBerlin&theme=radical">
-</p>
-  
-
-<a href="https://github.com/claudiaberlin/github-readme-stats">
-<img align="left" height="150em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaberlin&layout=compact&theme=material-palenight" alt="Top Langs"   />
-</a>
-Stats by anuraghazra, Thank You!
-<br><br>
 
    
 ## Languages
@@ -28,7 +18,7 @@ Stats by anuraghazra, Thank You!
 
 </p>
 
-## Development Tools
+## Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 
